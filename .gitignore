@@ -1,0 +1,12 @@
+
+/dist
+/tmp
+
+/node_modules
+
+/.idea
+/build
+
+*.a
+
+
